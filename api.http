@@ -1,0 +1,5 @@
+# Examples of API Endpoints
+
+api.example.com/tasks/{id}/
+api.example.com/people/{id}/
+api.example.com/users/{id}/tasks
